@@ -130,6 +130,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/aravindadesilva.jpg"
   },
   {
+    "name": "Babar Azam",
+    "matches": 131,
+    "runs": 6235,
+    "highestScore": 158,
+    "strikeRate": 87.95,
+    "hundreds": 19,
+    "fifties": 37,
+    "catches": 56,
+    "wickets": 0,
+    "country": "Pakistan",
+    "imageUrl": "https://audroit.github.io/cricket/images/babarazam.jpg"
+  },
+  {
     "name": "Ben Stokes",
     "matches": 121,
     "runs": 3159,
@@ -141,6 +154,19 @@
     "wickets": 74,
     "country": "England",
     "imageUrl": "https://audroit.github.io/cricket/images/benstokes.jpg"
+  },
+  {
+    "name": "Brad Haddin",
+    "matches": 126,
+    "runs": 3122,
+    "highestScore": 110,
+    "strikeRate": 84.24,
+    "hundreds": 2,
+    "fifties": 16,
+    "catches": 170,
+    "wickets": 0,
+    "country": "Australia",
+    "imageUrl": "https://audroit.github.io/cricket/images/bradhaddin.jpg"
   },
   {
     "name": "Brendan Taylor",
@@ -273,6 +299,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/danielvettori.jpg"
   },
   {
+    "name": "David Miller",
+    "matches": 178,
+    "runs": 4611,
+    "highestScore": 139,
+    "strikeRate": 103.68,
+    "hundreds": 7,
+    "fifties": 24,
+    "catches": 87,
+    "wickets": 0,
+    "country": "South Africa",
+    "imageUrl": "https://audroit.github.io/cricket/images/davidmiller.jpg"
+  },
+  {
     "name": "David Warner",
     "matches": 161,
     "runs": 6932,
@@ -336,6 +375,19 @@
     "wickets": 2,
     "country": "South Africa",
     "imageUrl": "https://audroit.github.io/cricket/images/fafduplessis.jpg"
+  },
+  {
+    "name": "Glenn Maxwell",
+    "matches": 149,
+    "runs": 3990,
+    "highestScore": 201,
+    "strikeRate": 126.7,
+    "hundreds": 4,
+    "fifties": 23,
+    "catches": 91,
+    "wickets": 77,
+    "country": "Australia",
+    "imageUrl": "https://audroit.github.io/cricket/images/glennmaxwell.jpg"
   },
   {
     "name": "Glenn McGrath",
@@ -455,6 +507,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/herschellegibbs.jpg"
   },
   {
+    "name": "Ian Healy",
+    "matches": 168,
+    "runs": 1764,
+    "highestScore": 56,
+    "strikeRate": 83.84,
+    "hundreds": 0,
+    "fifties": 4,
+    "catches": 194,
+    "wickets": 0,
+    "country": "Australia",
+    "imageUrl": "https://audroit.github.io/cricket/images/ianhealy.jpg"
+  },
+  {
     "name": "Imran Khan",
     "matches": 175,
     "runs": 3709,
@@ -520,6 +585,32 @@
     "imageUrl": "https://audroit.github.io/cricket/images/jamesanderson.jpg"
   },
   {
+    "name": "Jason Roy",
+    "matches": 116,
+    "runs": 4271,
+    "highestScore": 180,
+    "strikeRate": 105.53,
+    "hundreds": 12,
+    "fifties": 21,
+    "catches": 46,
+    "wickets": 0,
+    "country": "England",
+    "imageUrl": "https://audroit.github.io/cricket/images/jasonroy.jpg"
+  },
+  {
+    "name": "Javagal Srinath",
+    "matches": 229,
+    "runs": 883,
+    "highestScore": 53,
+    "strikeRate": 79.62,
+    "hundreds": 0,
+    "fifties": 1,
+    "catches": 32,
+    "wickets": 315,
+    "country": "India",
+    "imageUrl": "https://audroit.github.io/cricket/images/javagalsrinath.jpg"
+  },
+  {
     "name": "Javed Miandad",
     "matches": 233,
     "runs": 7381,
@@ -533,6 +624,32 @@
     "imageUrl": "https://audroit.github.io/cricket/images/javedmiandad.jpg"
   },
   {
+    "name": "Joe Root",
+    "matches": 180,
+    "runs": 7126,
+    "highestScore": 166,
+    "strikeRate": 87.6,
+    "hundreds": 18,
+    "fifties": 42,
+    "catches": 88,
+    "wickets": 28,
+    "country": "England",
+    "imageUrl": "https://audroit.github.io/cricket/images/joeroot.jpg"
+  },
+  {
+    "name": "Jonty Rhodes",
+    "matches": 245,
+    "runs": 5935,
+    "highestScore": 121,
+    "strikeRate": 80.9,
+    "hundreds": 2,
+    "fifties": 33,
+    "catches": 105,
+    "wickets": 0,
+    "country": "South Africa",
+    "imageUrl": "https://audroit.github.io/cricket/images/jontyrhodes.jpg"
+  },
+  {
     "name": "Jos Buttler",
     "matches": 187,
     "runs": 5196,
@@ -544,6 +661,19 @@
     "wickets": 0,
     "country": "England",
     "imageUrl": "https://audroit.github.io/cricket/images/josbuttler.jpg"
+  },
+  {
+    "name": "Kamran Akmal",
+    "matches": 157,
+    "runs": 3236,
+    "highestScore": 124,
+    "strikeRate": 83.94,
+    "hundreds": 5,
+    "fifties": 10,
+    "catches": 157,
+    "wickets": 0,
+    "country": "Pakistan",
+    "imageUrl": "https://audroit.github.io/cricket/images/kamranakmal.jpg"
   },
   {
     "name": "Kane Williamson",
@@ -650,6 +780,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/mahelajayawardene.jpg"
   },
   {
+    "name": "Mark Boucher",
+    "matches": 295,
+    "runs": 4686,
+    "highestScore": 147,
+    "strikeRate": 84.76,
+    "hundreds": 1,
+    "fifties": 26,
+    "catches": 403,
+    "wickets": 0,
+    "country": "South Africa",
+    "imageUrl": "https://audroit.github.io/cricket/images/markboucher.jpg"
+  },
+  {
     "name": "Mark Waugh",
     "matches": 244,
     "runs": 8500,
@@ -689,6 +832,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/martinguptill.jpg"
   },
   {
+    "name": "Marvan Atapattu",
+    "matches": 268,
+    "runs": 8529,
+    "highestScore": 132,
+    "strikeRate": 67.72,
+    "hundreds": 11,
+    "fifties": 59,
+    "catches": 70,
+    "wickets": 0,
+    "country": "Sri Lanka",
+    "imageUrl": "https://audroit.github.io/cricket/images/marvanatapattu.jpg"
+  },
+  {
     "name": "Matthew Hayden",
     "matches": 161,
     "runs": 6133,
@@ -726,6 +882,19 @@
     "wickets": 57,
     "country": "Australia",
     "imageUrl": "https://audroit.github.io/cricket/images/michaelclarke.jpg"
+  },
+  {
+    "name": "Michael Hussey",
+    "matches": 185,
+    "runs": 5442,
+    "highestScore": 109,
+    "strikeRate": 87.16,
+    "hundreds": 3,
+    "fifties": 39,
+    "catches": 105,
+    "wickets": 2,
+    "country": "Australia",
+    "imageUrl": "https://audroit.github.io/cricket/images/michaelhussey.jpg"
   },
   {
     "name": "Mitchell Starc",
@@ -791,6 +960,19 @@
     "wickets": 176,
     "country": "Afghanistan",
     "imageUrl": "https://audroit.github.io/cricket/images/mohammadnabi.jpg"
+  },
+  {
+    "name": "Mohammad Yousuf",
+    "matches": 288,
+    "runs": 9720,
+    "highestScore": 141,
+    "strikeRate": 75.1,
+    "hundreds": 15,
+    "fifties": 64,
+    "catches": 58,
+    "wickets": 1,
+    "country": "Pakistan",
+    "imageUrl": "https://audroit.github.io/cricket/images/mohammadyousuf.jpg"
   },
   {
     "name": "Mushfiqur Rahim",
@@ -895,6 +1077,19 @@
     "wickets": 199,
     "country": "Afghanistan",
     "imageUrl": "https://audroit.github.io/cricket/images/rashidkhan.jpg"
+  },
+  {
+    "name": "Rashid Latif",
+    "matches": 166,
+    "runs": 1709,
+    "highestScore": 79,
+    "strikeRate": 76.39,
+    "hundreds": 0,
+    "fifties": 3,
+    "catches": 182,
+    "wickets": 0,
+    "country": "Pakistan",
+    "imageUrl": "https://audroit.github.io/cricket/images/rashidlatif.jpg"
   },
   {
     "name": "Ravichandran Ashwin",
@@ -1092,6 +1287,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/shaunpollock.jpg"
   },
   {
+    "name": "Shikhar Dhawan",
+    "matches": 167,
+    "runs": 6793,
+    "highestScore": 143,
+    "strikeRate": 91.35,
+    "hundreds": 17,
+    "fifties": 39,
+    "catches": 83,
+    "wickets": 0,
+    "country": "India",
+    "imageUrl": "https://audroit.github.io/cricket/images/shikhardhawan.jpg"
+  },
+  {
     "name": "Shivnarine Chanderpaul",
     "matches": 268,
     "runs": 8778,
@@ -1157,6 +1365,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/stephenfleming.jpg"
   },
   {
+    "name": "Steve Smith",
+    "matches": 170,
+    "runs": 5800,
+    "highestScore": 164,
+    "strikeRate": 86.96,
+    "hundreds": 12,
+    "fifties": 35,
+    "catches": 90,
+    "wickets": 28,
+    "country": "Australia",
+    "imageUrl": "https://audroit.github.io/cricket/images/stevesmith.jpg"
+  },
+  {
     "name": "Steve Waugh",
     "matches": 325,
     "runs": 7569,
@@ -1181,6 +1402,19 @@
     "wickets": 36,
     "country": "India",
     "imageUrl": "https://audroit.github.io/cricket/images/sureshraina.jpg"
+  },
+  {
+    "name": "Tamim Iqbal",
+    "matches": 243,
+    "runs": 8357,
+    "highestScore": 158,
+    "strikeRate": 78.52,
+    "hundreds": 14,
+    "fifties": 56,
+    "catches": 68,
+    "wickets": 0,
+    "country": "Bangladesh",
+    "imageUrl": "https://audroit.github.io/cricket/images/tamimiqbal.jpg"
   },
   {
     "name": "Tillakaratne Dilshan",
@@ -1261,6 +1495,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/wasimakram.jpg"
   },
   {
+    "name": "Younis Khan",
+    "matches": 265,
+    "runs": 7249,
+    "highestScore": 144,
+    "strikeRate": 75.29,
+    "hundreds": 7,
+    "fifties": 48,
+    "catches": 135,
+    "wickets": 3,
+    "country": "Pakistan",
+    "imageUrl": "https://audroit.github.io/cricket/images/youniskhan.jpg"
+  },
+  {
     "name": "Yuvraj Singh",
     "matches": 304,
     "runs": 8701,
@@ -1272,8 +1519,22 @@
     "wickets": 111,
     "country": "India",
     "imageUrl": "https://audroit.github.io/cricket/images/yuvrajsingh.jpg"
+  },
+  {
+    "name": "Zaheer Khan",
+    "matches": 200,
+    "runs": 792,
+    "highestScore": 34,
+    "strikeRate": 73.46,
+    "hundreds": 0,
+    "fifties": 0,
+    "catches": 43,
+    "wickets": 282,
+    "country": "India",
+    "imageUrl": "https://audroit.github.io/cricket/images/zaheerkhan.jpg"
   }
 ]
+
 
 
 
