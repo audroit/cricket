@@ -79,14 +79,14 @@
   },
   {
     "name": "Adil Rashid",
-    "matches": 158,
+    "matches": 161,
     "runs": 971,
     "highestScore": 69,
-    "strikeRate": 93.99,
+    "strikeRate": 93.45,
     "hundreds": 0,
     "fifties": 1,
-    "catches": 51,
-    "wickets": 235,
+    "catches": 53,
+    "wickets": 242,
     "country": "England",
     "imageUrl": "https://audroit.github.io/cricket/images/adilrashid.jpg"
   },
@@ -1223,14 +1223,14 @@
   },
   {
     "name": "Joe Root",
-    "matches": 186,
-    "runs": 7330,
+    "matches": 189,
+    "runs": 7577,
     "highestScore": 166,
-    "strikeRate": 87.65,
-    "hundreds": 19,
-    "fifties": 43,
-    "catches": 89,
-    "wickets": 28,
+    "strikeRate": 87.59,
+    "hundreds": 20,
+    "fifties": 45,
+    "catches": 91,
+    "wickets": 30,
     "country": "England",
     "imageUrl": "https://audroit.github.io/cricket/images/joeroot.jpg"
   },
@@ -1275,10 +1275,10 @@
   },
   {
     "name": "Jos Buttler",
-    "matches": 196,
-    "runs": 5463,
+    "matches": 199,
+    "runs": 5515,
     "highestScore": 162,
-    "strikeRate": 115.10,
+    "strikeRate": 115.20,
     "hundreds": 11,
     "fifties": 29,
     "catches": 236,
@@ -2744,14 +2744,14 @@
   },
   {
     "name": "Wanindu Hasaranga",
-    "matches": 68,
-    "runs": 1126,
+    "matches": 69,
+    "runs": 1135,
     "highestScore": 80,
-    "strikeRate": 109.32,
+    "strikeRate": 109.66,
     "hundreds": 0,
     "fifties": 5,
     "catches": 19,
-    "wickets": 111,
+    "wickets": 112,
     "country": "Sri Lanka",
     "imageUrl": "https://audroit.github.io/cricket/images/waninduhasaranga.jpg"
   },
@@ -2821,4 +2821,5 @@
     "imageUrl": "https://audroit.github.io/cricket/images/zaheerkhan.jpg"
   }
 ]
+
 
