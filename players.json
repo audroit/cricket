@@ -2379,6 +2379,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/shanewatson.jpg"
   },
   {
+    "name": "Shaun Marsh",
+    "matches": 73,
+    "runs": 2773,
+    "highestScore": 151,
+    "strikeRate": 81.41,
+    "hundreds": 7,
+    "fifties": 15,
+    "catches": 22,
+    "wickets": 0,
+    "country": "Australia",
+    "imageUrl": "https://audroit.github.io/cricket/images/shaunmarsh.jpg"
+  },
+  {
     "name": "Shaun Pollock",
     "matches": 303,
     "runs": 3519,
@@ -2821,5 +2834,6 @@
     "imageUrl": "https://audroit.github.io/cricket/images/zaheerkhan.jpg"
   }
 ]
+
 
 
