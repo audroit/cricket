@@ -39,6 +39,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/abdulrazzaq.jpg"
   },
   {
+    "name": "Abdur Razzak",
+    "matches": 153,
+    "runs": 779,
+    "highestScore": 53,
+    "strikeRate": 76.37,
+    "hundreds": 0,
+    "fifties": 1,
+    "catches": 32,
+    "wickets": 207,
+    "country": "Bangladesh",
+    "imageUrl": "https://audroit.github.io/cricket/images/abdurrazzak.jpg"
+  },
+  {
     "name": "Adam Gilchrist",
     "matches": 287,
     "runs": 9619,
@@ -325,6 +338,32 @@
     "imageUrl": "https://audroit.github.io/cricket/images/aravindadesilva2.jpg"
   },
   {
+    "name": "Arjuna Ranatunga",
+    "matches": 269,
+    "runs": 7456,
+    "highestScore": 131,
+    "strikeRate": 77.90,
+    "hundreds": 4,
+    "fifties": 49,
+    "catches": 63,
+    "wickets": 79,
+    "country": "Sri Lanka",
+    "imageUrl": "https://audroit.github.io/cricket/images/arjunaranatunga.jpg"
+  },
+  {
+    "name": "Ashish Nehra",
+    "matches": 120,
+    "runs": 141,
+    "highestScore": 24,
+    "strikeRate": 57.31,
+    "hundreds": 0,
+    "fifties": 0,
+    "catches": 18,
+    "wickets": 157,
+    "country": "India",
+    "imageUrl": "https://audroit.github.io/cricket/images/ashishnehra.jpg"
+  },
+  {
     "name": "Axar Patel",
     "matches": 71,
     "runs": 858,
@@ -468,6 +507,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/brianlara.jpg"
   },
   {
+    "name": "Cameron Green",
+    "matches": 31,
+    "runs": 782,
+    "highestScore": 118,
+    "strikeRate": 89.57,
+    "hundreds": 1,
+    "fifties": 2,
+    "catches": 21,
+    "wickets": 20,
+    "country": "Australia",
+    "imageUrl": "https://audroit.github.io/cricket/images/camerongreen.jpg"
+  },
+  {
     "name": "Cameron White",
     "matches": 91,
     "runs": 2072,
@@ -585,6 +637,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/craigmcdermott.jpg"
   },
   {
+    "name": "Colin de Grandhomme",
+    "matches": 45,
+    "runs": 742,
+    "highestScore": 74,
+    "strikeRate": 106.15,
+    "hundreds": 0,
+    "fifties": 4,
+    "catches": 17,
+    "wickets": 30,
+    "country": "New Zealand",
+    "imageUrl": "https://audroit.github.io/cricket/images/colindegrandhomme.jpg"
+  },
+  {
     "name": "Colin Munro",
     "matches": 57,
     "runs": 1271,
@@ -611,6 +676,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/courtneywalsh.jpg"
   },
   {
+    "name": "Curtly Ambrose",
+    "matches": 176,
+    "runs": 639,
+    "highestScore": 31,
+    "strikeRate": 64.87,
+    "hundreds": 0,
+    "fifties": 0,
+    "catches": 45,
+    "wickets": 225,
+    "country": "West Indies",
+    "imageUrl": "https://audroit.github.io/cricket/images/curtlyambrose.jpg"
+  },
+  {
     "name": "Dale Steyn",
     "matches": 125,
     "runs": 365,
@@ -634,7 +712,7 @@
     "catches": 88,
     "wickets": 305,
     "country": "New Zealand",
-    "imageUrl": "https://audroit.github.io/cricket/images/danielvettori.jpg"
+    "imageUrl": "https://audroit.github.io/cricket/images/danielvettori2.jpg"
   },
   {
     "name": "Danny Morrison",
@@ -1300,6 +1378,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/ishankishan.jpg"
   },
   {
+    "name": "Ishant Sharma",
+    "matches": 80,
+    "runs": 72,
+    "highestScore": 13,
+    "strikeRate": 35.46,
+    "hundreds": 0,
+    "fifties": 0,
+    "catches": 19,
+    "wickets": 115,
+    "country": "India",
+    "imageUrl": "https://audroit.github.io/cricket/images/ishantsharma.jpg"
+  },
+  {
     "name": "JP Duminy",
     "matches": 199,
     "runs": 5117,
@@ -1391,6 +1482,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/jasongillespie.jpg"
   },
   {
+    "name": "Jason Holder",
+    "matches": 138,
+    "runs": 2237,
+    "highestScore": 99,
+    "strikeRate": 90.23,
+    "hundreds": 0,
+    "fifties": 12,
+    "catches": 65,
+    "wickets": 159,
+    "country": "West Indies",
+    "imageUrl": "https://audroit.github.io/cricket/images/jasonholder.jpg"
+  },
+  {
     "name": "Jason Roy",
     "matches": 116,
     "runs": 4271,
@@ -1480,6 +1584,19 @@
     "wickets": 142,
     "country": "Australia",
     "imageUrl": "https://audroit.github.io/cricket/images/joshhazlewood.jpg"
+  },
+  {
+    "name": "Josh Inglis",
+    "matches": 33,
+    "runs": 766,
+    "highestScore": 120,
+    "strikeRate": 106.38,
+    "hundreds": 1,
+    "fifties": 4,
+    "catches": 30,
+    "wickets": 0,
+    "country": "Australia",
+    "imageUrl": "https://audroit.github.io/cricket/images/joshinglis.jpg"
   },
   {
     "name": "Jonny Bairstow",
@@ -1688,6 +1805,19 @@
     "wickets": 194,
     "country": "India",
     "imageUrl": "https://audroit.github.io/cricket/images/kuldeepyadav.jpg"
+  },
+  {
+    "name": "Kumar Dharmasena",
+    "matches": 141,
+    "runs": 1222,
+    "highestScore": 69,
+    "strikeRate": 65.03,
+    "hundreds": 0,
+    "fifties": 4,
+    "catches": 34,
+    "wickets": 138,
+    "country": "Sri Lanka",
+    "imageUrl": "https://audroit.github.io/cricket/images/kumardharmasena.jpg"
   },
   {
     "name": "Kumar Sangakkara",
@@ -1934,7 +2064,7 @@
     "catches": 41,
     "wickets": 10,
     "country": "Australia",
-    "imageUrl": "https://audroit.github.io/cricket/images/marnuslabuschagne.jpg"
+    "imageUrl": "https://audroit.github.io/cricket/images/marnuslabuschagne2.jpg"
   },
   {
     "name": "Martin Crowe",
@@ -2639,6 +2769,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/rileerossouw.jpg"
   },
   {
+    "name": "Rishabh Pant",
+    "matches": 31,
+    "runs": 871,
+    "highestScore": 125,
+    "strikeRate": 106.21,
+    "hundreds": 1,
+    "fifties": 5,
+    "catches": 27,
+    "wickets": 0,
+    "country": "India",
+    "imageUrl": "https://audroit.github.io/cricket/images/rishabhpant.jpg"
+  },
+  {
     "name": "Rohit Sharma",
     "matches": 282,
     "runs": 11577,
@@ -2663,6 +2806,19 @@
     "wickets": 0,
     "country": "New Zealand",
     "imageUrl": "https://audroit.github.io/cricket/images/rosstaylor.jpg"
+  },
+  {
+    "name": "Rubel Hossain",
+    "matches": 104,
+    "runs": 144,
+    "highestScore": 17,
+    "strikeRate": 51.98,
+    "hundreds": 0,
+    "fifties": 0,
+    "catches": 20,
+    "wickets": 129,
+    "country": "Bangladesh",
+    "imageUrl": "https://audroit.github.io/cricket/images/rubelhossain.jpg"
   },
   {
     "name": "Sachin Tendulkar",
@@ -3081,6 +3237,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/tillakaratnedilshan.jpg"
   },
   {
+    "name": "Tom Moody",
+    "matches": 76,
+    "runs": 1211,
+    "highestScore": 89,
+    "strikeRate": 69.31,
+    "hundreds": 0,
+    "fifties": 10,
+    "catches": 21,
+    "wickets": 52,
+    "country": "Australia",
+    "imageUrl": "https://audroit.github.io/cricket/images/tommoody.jpg"
+  },
+  {
     "name": "Travis Head",
     "matches": 79,
     "runs": 3007,
@@ -3248,6 +3417,19 @@
     "wickets": 3,
     "country": "Pakistan",
     "imageUrl": "https://audroit.github.io/cricket/images/youniskhan.jpg"
+  },
+  {
+    "name": "Yusuf Pathan",
+    "matches": 57,
+    "runs": 810,
+    "highestScore": 123,
+    "strikeRate": 113.60,
+    "hundreds": 2,
+    "fifties": 3,
+    "catches": 17,
+    "wickets": 33,
+    "country": "India",
+    "imageUrl": "https://audroit.github.io/cricket/images/yusufpathan.jpg"
   },
   {
     "name": "Yuvraj Singh",
