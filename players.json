@@ -2704,6 +2704,19 @@
     "imageUrl": "https://audroit.github.io/cricket/images/rashidlatif.jpg"
   },
   {
+    "name": "Ravi Shastri",
+    "matches": 150,
+    "runs": 3108,
+    "highestScore": 109,
+    "strikeRate": 61.07,
+    "hundreds": 4,
+    "fifties": 18,
+    "catches": 40,
+    "wickets": 129,
+    "country": "India",
+    "imageUrl": "https://audroit.github.io/cricket/images/ravishastri.jpg"
+  },
+  {
     "name": "Ravichandran Ashwin",
     "matches": 116,
     "runs": 707,
